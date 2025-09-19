@@ -1,9 +1,9 @@
 ```
-   __        __    __          
-  / /  ___ _/ /__ / /____ __   
- / _ \/ _ `/  '_//  '_/ // /   
-/_//_/\_,_/_/\_\/_/\_\\_, /    
-                  /___/     
+   __             __       
+  / /  ___ ____  / /____ __
+ / _ \/ _ `/ _ \/  '_/ // /
+/_//_/\_,_/_//_/_/\_\\_, / 
+                    /___/     
 ```
 ### ❄️ **You can address me as hakky.**
 ### 🌁 **I'm a student.**
@@ -13,5 +13,5 @@
  - c#
  - python
  - and more.
-### **Love linux (i use arch btw)**
-### **and everything else, but I'm too lazy to write it here)**
+### 💻 **Love linux, but now I'm working on a mac**
+### 🥱 **and everything else, but I'm too lazy to write it here)**
