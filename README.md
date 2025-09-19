@@ -1,11 +1,18 @@
-- ❄️ Hi, I’m Morty ( That's not my real name)
-- 🌁 I am studying programming.
-- 🍙 End.
-- 真実
-- 𓆩⟡𓆪
-- シ
-
+   __        __    __          
+  / /  ___ _/ /__ / /____ __   
+ / _ \/ _ `/  '_//  '_/ // /   
+/_//_/\_,_/_/\_\/_/\_\\_, /    
+                     /___/     
+- ❄️ You can address me as hakky.
+- 🌁 I'm a student.
+- I'm learning...
+ * html, css
+ * javascript
+ * c#
+ * python
+ * and more.
+- Love linux (i use arch btw)
+- and everything else, but I'm too lazy to write it here) 
 <!---
-noMyNameMorti/noMyNameMorti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+hallo
 --->
